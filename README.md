@@ -1,4 +1,4 @@
-<img align="right" height="250" src="https://github.com/GusBuz/GusBuz/assets/116600311/3acc4a62-3c11-4413-a597-b26c983a0e4f">
+<img align="right" height="220" src="https://github.com/GusBuz/GusBuz/assets/116600311/3acc4a62-3c11-4413-a597-b26c983a0e4f">
 
 
 <p align="center">
@@ -19,7 +19,8 @@
 
 <br><hr>
 <h3 align="left">Now listening...</h3>
-<img width="400" src="https://github.com/GusBuz/GusBuz/assets/116600311/31da754a-a4f6-4eab-ba16-315de73235e7">
+<img width="200" src="https://github.com/GusBuz/GusBuz/assets/116600311/31da754a-a4f6-4eab-ba16-315de73235e7">
+<img width="200" src="https://github.com/GusBuz/GusBuz/assets/116600311/31da754a-a4f6-4eab-ba16-315de73235e7">
 <img width="400" src="https://spotify-recently-played-readme.vercel.app/api?user=sufzinha&count=7">
 
 
