@@ -1,4 +1,5 @@
-<img align="right" height="200" src="https://media0.giphy.com/media/RxR1KghIie2iI/giphy.gif?cid=ecf05e47re9rc21sja7e7ojvgz6p2isjtd9iahmy9lts5rrl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" height="200" src="https://github.com/GusBuz/GusBuz/assets/116600311/3acc4a62-3c11-4413-a597-b26c983a0e4f">
+
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C691E9&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Pode+me+chamar+de+Gus+%3A)">
@@ -18,7 +19,7 @@
 
 <br><hr>
 <h3 align="left">Now listening...</h3>
-<img width="300" src="https://media4.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif">
+<img width="300" src="https://github.com/GusBuz/GusBuz/assets/116600311/31da754a-a4f6-4eab-ba16-315de73235e7">
 <img width="400" src="https://spotify-recently-played-readme.vercel.app/api?user=sufzinha&count=7">
 
 <br><hr>
