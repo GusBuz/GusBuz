@@ -1,24 +1,25 @@
 <img align="right" height="200" src="https://media0.giphy.com/media/RxR1KghIie2iI/giphy.gif?cid=ecf05e47re9rc21sja7e7ojvgz6p2isjtd9iahmy9lts5rrl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C691E9&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Pode+me+chamar+de+Gus+%3A)">
-<p align="justify">Me chamo Gustavo, mas pode me chamar de Gus. Sou desenvolvedor back-end, tenho 29 anos e estou cursando Análise e Desenvolvimento de Sistemas.<br>  
-    Desde sempre sou apaixonado por tecnologia, e agora decidi mergulhar de vez nesse mundo (espero que não seja tarde demais kk). Sou tatuador e designer gráfico, sou pai de gatos, viciado em jogos roguelike e filmes sobre viagem no tempo, e nas horas vagas assisto o anime do pirata que estica. 👒
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C691E9&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Pode+me+chamar+de+Gus+%3A)">
+    <p align="justify">Me chamo Gustavo, mas pode me chamar de Gus. Sou desenvolvedor back-end, tenho 29 anos e estou cursando Análise e Desenvolvimento de Sistemas.<br>  
+        Desde sempre sou apaixonado por tecnologia, e agora decidi mergulhar de vez nesse mundo (espero que não seja tarde demais kk). Sou tatuador e designer gráfico, sou pai de gatos, viciado em jogos roguelike e filmes sobre viagem no tempo, e nas horas vagas assisto o anime do pirata que estica. 👒
+    </p>
 </p>
 
 <br><hr>
 <h3 align="left">Estatísticas do GitHub</h3>
-<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusBuz&hide_progress=false&theme=material-palenight&layout=compact" />&nbsp;&nbsp;&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=GusBuz&show_icons=true&theme=material-palenight&rank_icon=github&hide_rank=true"> 
+<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusBuz&hide_progress=false&theme=material-palenight&layout=compact" /><img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=GusBuz&show_icons=true&theme=material-palenight&rank_icon=github&hide_rank=true"> 
 
 <br><hr>
 <h3 align="left">Meus melhores projetos</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=capri_hotel&theme=material-palenight" />&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=capri_hotel&theme=material-palenight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=Conversor-ONE&theme=material-palenight" />
 
 <br><hr>
 <h3 align="left">Now listening...</h3>
-<p align="center">
-<img width="300" src="https://media4.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif">&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://media4.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif">
 <img width="400" src="https://spotify-recently-played-readme.vercel.app/api?user=sufzinha&count=7">
-</p>
 
 <br><hr>
 <h3 align="left">Onde me encontrar</h3>
@@ -30,8 +31,8 @@
 
 <br><hr>
 <details align="left">
-  <summary>Créditos</summary><br>
-
+  <summary>Créditos</summary>
+    
   - Badges: <a href="https://shields.io/">shields.io</a><br>
 
   - GitHub README Stats: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
