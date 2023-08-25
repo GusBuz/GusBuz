@@ -14,7 +14,7 @@
 
 <br><hr>
 <h3 align="left">Meus melhores projetos</h3>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=capri_hotel&theme=material-palenight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=Conversor-ONE&theme=material-palenight" />
 
 <br><hr>
