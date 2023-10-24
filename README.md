@@ -11,9 +11,9 @@
 
 <div align="center">
 <h3>Estatísticas do GitHub</h3>
-<a href="#"><img height="180"src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusBuz&hide_progress=false&theme=material-palenight&layout=compact"></a>
+<picture><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusBuz&hide_progress=false&theme=material-palenight&layout=compact"></picture>
 &nbsp;
-<a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=GusBuz&show_icons=true&theme=material-palenight&rank_icon=github&hide_rank=true"></a>
+<picture><img height="180" src="https://github-readme-stats.vercel.app/api?username=GusBuz&show_icons=true&theme=material-palenight&rank_icon=github&hide_rank=true"></picture>
 </div>
 
 <hr>
