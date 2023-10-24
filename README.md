@@ -1,7 +1,7 @@
 
 <p align="center">    
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C691E9&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Pode+me+chamar+de+Gus+%3A)">
-    <img height="220" src="https://github.com/GusBuz/GusBuz/assets/116600311/3acc4a62-3c11-4413-a597-b26c983a0e4f">
+    <img height="180" src="https://github.com/GusBuz/GusBuz/assets/116600311/3acc4a62-3c11-4413-a597-b26c983a0e4f">
     <p align="justify">Me chamo Gustavo, mas pode me chamar de Gus. Sou desenvolvedor back-end, tenho 29 anos e estou cursando Análise e Desenvolvimento de Sistemas.<br>
         Desde sempre sou apaixonado por tecnologia, e agora decidi mergulhar de vez nesse mundo (espero que não seja tarde demais kk). Sou tatuador e designer gráfico, sou pai de gatos, viciado em jogos roguelike e filmes sobre viagem no tempo, e nas horas vagas assisto o anime do pirata que estica. 👒
     </p>
@@ -20,9 +20,9 @@
 
 <div align="center">
 <h3>Meus melhores projetos</h3>
-<a href="https://github.com/GusBuz/capri_hotel"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=capri_hotel&theme=material-palenight"></a>
-&nbsp;
-<a href="https://github.com/GusBuz/Conversor-ONE"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=Conversor-ONE&theme=material-palenight"></a>
+<a href="https://github.com/GusBuz/capri_hotel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=capri_hotel&theme=material-palenight"></a>
+<br><br>
+<a href="https://github.com/GusBuz/Conversor-ONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=Conversor-ONE&theme=material-palenight"></a>
 </div>
     
 <hr>
