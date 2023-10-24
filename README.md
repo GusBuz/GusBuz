@@ -7,28 +7,26 @@
     </p>
 </p>
 
-
-
 <hr>
-<h3 align="left">Estatísticas do GitHub</h3>
-<a href="#">
-    <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusBuz&hide_progress=false&theme=material-palenight&layout=compact" />
-</a>
-<br><br>
-<a href="#">
-    <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=GusBuz&show_icons=true&theme=material-palenight&rank_icon=github&hide_rank=true">
-</a>
+
+<div align="center">
+<h3>Estatísticas do GitHub</h3>
+<a href="#"><img height="180"src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusBuz&hide_progress=false&theme=material-palenight&layout=compact"></a>
+&nbsp;
+<a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=GusBuz&show_icons=true&theme=material-palenight&rank_icon=github&hide_rank=true"></a>
+</div>
 
 <hr>
-<h3 align="left">Meus melhores projetos</h3>
-<a href="https://github.com/GusBuz/capri_hotel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=capri_hotel&theme=material-palenight" />
-</a>
-<br><br>
-<a href="https://github.com/GusBuz/Conversor-ONE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=Conversor-ONE&theme=material-palenight" />
-</a>
+
+<div align="center">
+<h3>Meus melhores projetos</h3>
+<a href="https://github.com/GusBuz/capri_hotel"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=capri_hotel&theme=material-palenight"></a>
+&nbsp;
+<a href="https://github.com/GusBuz/Conversor-ONE"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=Conversor-ONE&theme=material-palenight"></a>
+</div>
+    
 <hr>
+    
 <div align="center">
 <h3>Now listening...</h3>
 <img width="200" src="https://github.com/GusBuz/GusBuz/assets/116600311/31da754a-a4f6-4eab-ba16-315de73235e7">
@@ -36,26 +34,27 @@
 <img width="400" src="https://spotify-recently-played-readme.vercel.app/api?user=sufzinha&count=7">
 </div>
 
+<hr>
+
+<div align="center">
+<h3>Onde me encontrar</h3>
+<a href="mailto:gubuzana@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+&nbsp;
+<a href="https://github.com/GusBuz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gusbuzana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 <hr>
-<h3 align="left">Onde me encontrar</h3>
-<p>
-<a href="mailto:gubuzana@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://github.com/GusBuz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-<a href="https://www.linkedin.com/in/gusbuzana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
 
-<hr>
 <details align="left">
   <summary>Créditos</summary>
     
-  - Badges: <a href="https://shields.io/">shields.io</a><br>
-
+  - Badges: <a href="https://shields.io/">shields.io</a>
+    
   - GitHub README Stats: <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-
+  
   - GIF's: <a href="https://giphy.com/">Giphy</a>
-
+  
   - Spotify API: <a href="https://spotify-recently-played-readme.vercel.app/">Spotify Vercel App</a>
 </details>
-
-
