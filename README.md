@@ -14,9 +14,12 @@
 
 <br><hr>
 <h3 align="left">Meus melhores projetos</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=capri_hotel&theme=material-palenight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=Conversor-ONE&theme=material-palenight" />
-
+<a href="https://github.com/GusBuz/capri_hotel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=capri_hotel&theme=material-palenight" />
+</a>
+<a href="https://github.com/GusBuz/Conversor-ONE">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusBuz&repo=Conversor-ONE&theme=material-palenight" />
+</a>
 <br><hr>
 <h3 align="left">Now listening...</h3>
 <img width="200" src="https://github.com/GusBuz/GusBuz/assets/116600311/31da754a-a4f6-4eab-ba16-315de73235e7">
